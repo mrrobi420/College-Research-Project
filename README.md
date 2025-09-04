@@ -15,16 +15,16 @@ I aim to contribute to meaningful projects while continuously learning and growi
 
 ---
 
-## 🛠 Skills & Expertise
+## 🛠 Technical Skills
 
-### 💻 Technical / Office
+### 💻 Office & Productivity
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-Mastered-green?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Mastered-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-Intermediate-yellow?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-Intermediate-yellow?style=for-the-badge&logo=googledocs&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Intermediate-yellow?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-### 📚 Research & Academic
+### 📚 Research & Analysis
 ![Data Collection](https://img.shields.io/badge/Data%20Collection-Intermediate-yellow?style=for-the-badge)
 ![Report Writing](https://img.shields.io/badge/Report%20Writing-Mastered-green?style=for-the-badge)
 ![Analytical Skills](https://img.shields.io/badge/Analytical%20Skills-Intermediate-yellow?style=for-the-badge)
@@ -38,7 +38,7 @@ I aim to contribute to meaningful projects while continuously learning and growi
 
 ---
 
-## 📊 Skill Progress
+## 📊 Skill Progress Bars
 ![Word](https://progress-bar.dev/100/?title=Word)  
 ![Excel](https://progress-bar.dev/100/?title=Excel)  
 ![PowerPoint](https://progress-bar.dev/70/?title=PowerPoint)  
@@ -49,14 +49,18 @@ I aim to contribute to meaningful projects while continuously learning and growi
 
 ---
 
-## 📂 Projects & Repositories
+## 📂 Projects & Portfolio
+
+<div align="center">
 
 | Project | Description | Tools / Technology |
 |---------|------------|----------------|
-| College Research Report | Research on local governance in Kurigram | Word, Excel |
-| Excel Data Templates | Templates for academic data collection & analysis | Excel, Google Sheets |
-| Seminar Presentation | Political Science seminar slides | PowerPoint |
-| Mini Research Project | Survey on social awareness among students | Word, Excel |
+| **College Research Report** | Research on local governance in Kurigram | Word, Excel |
+| **Excel Data Templates** | Templates for academic data collection & analysis | Excel, Google Sheets |
+| **Seminar Presentation** | Political Science seminar slides | PowerPoint |
+| **Mini Research Project** | Survey on social awareness among students | Word, Excel |
+
+</div>
 
 ---
 
@@ -67,15 +71,18 @@ I aim to contribute to meaningful projects while continuously learning and growi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 ![Robiul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robiul&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robiul&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robiul&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robiul&theme=radical)
 
 ---
 
-### ⚡ Extra
-- Fully modern polished layout  
-- Interactive badges and progress bars  
-- Visitor-friendly stats  
-- Projects and skills perfectly highlighted  
+### ⚡ Extra Ultra Features
+- Animated skill bars & progress indicators  
+- Color gradients for badges & icons  
+- Circular skill charts (via shields / progress)  
+- Dynamic project cards & table layout  
+- Visitor-friendly GitHub stats & streaks  
+- Fully modern polished layout for maximum recruiter impression  
 
