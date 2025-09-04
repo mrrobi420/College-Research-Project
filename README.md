@@ -4,39 +4,40 @@ Research report on local governance in Lalmonirhat
 
 [![Profile Views](https://komarev.com/ghpvc/?username=robiul&color=blueviolet)](https://github.com/robiul)
 
-## About Me
+## 🌟 About Me
 I’m an **Undergraduate Student in Political Science** at National University, Bangladesh.  
-Passionate about **governance, public policy, and academic research**.  
+Passionate about **governance, public policy, research, and academic projects**.  
 Currently enhancing my skills in **MS Office, Data Analysis, Research, and Report Writing**.  
 I aim to contribute to meaningful projects while continuously learning and growing professionally.
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Expertise
 
-### Technical / Office
-[![Word](https://img.shields.io/badge/Microsoft%20Word-Blue?style=flat-square&logo=microsoftword&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word) 
-[![Excel](https://img.shields.io/badge/Microsoft%20Excel-Green?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) 
-[![PowerPoint](https://img.shields.io/badge/PowerPoint-Red?style=flat-square&logo=microsoftpowerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) 
-[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-LightGreen?style=flat-square&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)
+### 💻 Technical / Office
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-Mastered-green?style=flat-square&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Mastered-green?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-Intermediate-yellow?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-Intermediate-yellow?style=flat-square&logo=googledocs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Intermediate-yellow?style=flat-square&logo=googlesheets&logoColor=white)
 
-### Research & Academic
-[![Research](https://img.shields.io/badge/Research-Blue?style=flat-square)](#) 
-[![Report Writing](https://img.shields.io/badge/Report%20Writing-Orange?style=flat-square)](#) 
-[![Analytical Skills](https://img.shields.io/badge/Analytical%20Skills-Purple?style=flat-square)](#) 
+### 📚 Research & Academic
+![Data Collection](https://img.shields.io/badge/Data%20Collection-Intermediate-yellow?style=flat-square)
+![Report Writing](https://img.shields.io/badge/Report%20Writing-Mastered-green?style=flat-square)
+![Analytical Skills](https://img.shields.io/badge/Analytical%20Skills-Intermediate-yellow?style=flat-square)
 
-### Soft Skills
-[![Communication](https://img.shields.io/badge/Communication-Blue?style=flat-square)](#) 
-[![Teamwork](https://img.shields.io/badge/Teamwork-Green?style=flat-square)](#) 
-[![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-Red?style=flat-square)](#) 
-[![Time Management](https://img.shields.io/badge/Time%20Management-Yellow?style=flat-square)](#) 
-[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Teal?style=flat-square)](#) 
+### 🌟 Soft Skills
+![Communication](https://img.shields.io/badge/Communication-Mastered-green?style=flat-square)
+![Teamwork](https://img.shields.io/badge/Teamwork-Mastered-green?style=flat-square)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-Intermediate-yellow?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time%20Management-Intermediate-yellow?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Intermediate-yellow?style=flat-square)
 
 ---
 
 ## 📂 Projects & Repositories
 
-| Project | Description | Tools/Technology |
+| Project | Description | Tools / Technology |
 |---------|------------|----------------|
 | College Research Report | Research on local governance in Kurigram | Word, Excel |
 | Excel Data Templates | Templates for academic data collection & analysis | Excel, Google Sheets |
@@ -52,9 +53,11 @@ I aim to contribute to meaningful projects while continuously learning and growi
 
 ---
 
-> “Learning is a treasure that will follow its owner everywhere.”  
+> “Learning is a treasure that will follow its owner everywhere.”
 
+---
+
+## 📊 GitHub Stats
 ![GitHub Followers](https://img.shields.io/github/followers/robiul?style=social)  
-
-
-![GitHub Followers](https://img.shields.io/github/followers/robiul?style=social)  
+![GitHub Repos](https://img.shields.io/github/repo-size/robiul?style=flat-square)  
+![GitHub Last Commit](https://img.shields.io/github/last-commit/robiul?style=flat-square)
