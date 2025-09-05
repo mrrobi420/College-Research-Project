@@ -55,7 +55,7 @@ I aim to contribute to meaningful projects while continuously learning and growi
 
 | Project | Description | Tools / Technology |
 |---------|------------|----------------|
-| **College Research Report** | Research on local governance in Kurigram | Word, Excel |
+| **College Research Report** | Research on local governance in Lalmonirhat | Word, Excel |
 | **Excel Data Templates** | Templates for academic data collection & analysis | Excel, Google Sheets |
 | **Seminar Presentation** | Political Science seminar slides | PowerPoint |
 | **Mini Research Project** | Survey on social awareness among students | Word, Excel |
